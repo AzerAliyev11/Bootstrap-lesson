@@ -1,0 +1,178 @@
+body, html
+{
+	margin: 1% 3%;
+	height: 100%;
+	background-color: #953E45;
+}
+.top
+{
+	height: 10%;
+}
+
+.row1, .col-lg-9
+{
+	height: 100%;
+}
+
+.logo
+{
+	width: 20%;
+	display: inline; 
+}
+
+.social
+{
+	font-size: 1.68em;
+	width: 50%;
+	color: #EEBDBC;
+}
+
+.network
+{
+	font-size: 1.68em;
+	width: 50%;
+	color: #BD7574;
+}
+
+input
+{
+	margin-left: 3%;
+	width: 50%;
+	height: 50%;
+	background-color: #F5E4CD;
+}
+
+.button
+{
+	height: 50%;
+	width: 18%;
+	margin-left: 2%;
+	background-color: #F5E4CD;
+}
+
+.profile
+{
+	height: 50%;
+	margin-left: 2%;
+	width: 5%;
+	background-color: #F5E4CD;
+}
+
+.row .col-sm-12
+{
+	color: #DDA09D;
+}
+
+.navigation span
+{
+	margin-left: 1%;
+	color: #DDA09D;
+	font-size: 1.45em;
+}
+
+.navigation a
+{
+	margin-left: 2%;
+	text-decoration: none;
+	font-size: 1.12em;
+	color: #DDA09D;
+}
+
+.content1
+{
+	height: 70%;
+}
+
+.rowa
+{
+	height: 70%;
+	position: relative;
+}
+
+.rowa .col-lg-6
+{
+	height: 100%;
+	position: relative;
+}
+
+img
+{
+	height: 100%;
+	width: 100%;
+}
+
+.first
+{
+	height: 70%;
+	position: relative;
+}
+
+.rowa1
+{
+	height: 70%;
+	position: relative;
+}
+
+.rowa1 .col-lg-12
+{
+	height: 100%;
+	margin-top: 4%;
+	position: relative;
+}
+
+.second
+{
+	height: 100%;
+	position: relative;
+}
+
+.rowb1
+{
+	height: 16%;
+	position: relative;
+}
+
+.rowb1 .col-lg-12
+{
+	height: 100%;
+	margin-bottom: 7%;
+	position: relative;
+}
+
+.rowb
+{
+	height: 30%;
+	position: relative;
+}
+
+.rowb .col-lg-3
+{
+	height: 100%;
+	position: relative;
+	margin-top: 38px;
+}
+
+span.c1
+{
+	font-size: 1.68em;
+	color: #DDA1A0;
+}
+
+span.c2
+{
+	font-size: 1.08em;
+	color: #DDA1A0;
+}
+
+span.c3
+{
+	font-size: 1.68em;
+	color: #DDA1A0;
+	margin-right: 6%;
+}
+
+.second a, span.sl
+{
+	font-size: 0.94em;
+	color: #DDA1A0;
+}
